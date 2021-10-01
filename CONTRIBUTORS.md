@@ -1318,6 +1318,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Business Student/Entrepreneur/Self-taught Developer
 - Github: [KyleLawson16](https://github.com/KyleLawson16/)
 
+#### Name: [Ari Kato](https://github.com/arioco4)
+- Place: Barcelona, Spain
+- Bio: Analyst
+- Github: [arioco4](https://github.com/arioco4)
+
 #### Name: [Lakston](https://github.com/Lakston)
 - Place: Toulouse, France
 - Bio: Front-End Dev
@@ -2427,3 +2432,4 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
